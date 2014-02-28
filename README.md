@@ -1,6 +1,10 @@
 AeroFS docker container
 =======================
 
+Installs the AeroFS Team Server (see: https://www.aerofs.com/downloading_team_server?os=linux)
+
+I've yet to make it working so configuration is WIP.
+
 ## STATUS: WIP
 
 TODO
