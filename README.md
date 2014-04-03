@@ -12,3 +12,7 @@ TODO
 
 Getting `123259.763E main @Lx, FATAL:java.lang.Exception: Unsupported OS Family or arch` in /home/aerofs/.aerofsts/cli.log
 
+According to Aerofs' support, the system is detected using Java's
+`System.getProperty("os.name");`. I should probably make a little java program
+to see what's the output on these docker containers.
+
